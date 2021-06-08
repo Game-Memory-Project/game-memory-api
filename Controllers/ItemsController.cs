@@ -9,7 +9,7 @@ using game_memo_api.Models;
 
 namespace game_memo_api.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[ItemsController]")]
     [ApiController]
     public class ItemsController : ControllerBase
     {
